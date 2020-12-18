@@ -1,0 +1,6 @@
+Aggregates\EventState.class
+Models\EventRawLog.class
+Program.class
+Aggregates\EventAggregate.class
+FileParser.class
+FileService.class
